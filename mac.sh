@@ -1,0 +1,1 @@
+electron-packager ../Rabbit-Epub-App Rabbit-Epub --platform=darwin --arch=all  --version=0.32.2 --icon=Rabbit-Epub.icns --app-version=1.0.0 --overwrite

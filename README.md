@@ -1,0 +1,1 @@
+Package script for Rabbit-Epub. It's using electron-packager.
